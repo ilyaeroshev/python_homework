@@ -1,0 +1,80 @@
+-------------n_jobs=1---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5668408870697021 s
+-------------n_jobs=1---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.6198410987854004 s
+-------------n_jobs=2---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5827949047088623 s
+-------------n_jobs=2---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.34195804595947266 s
+-------------n_jobs=3---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5695998668670654 s
+-------------n_jobs=3---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.24588894844055176 s
+-------------n_jobs=4---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5702626705169678 s
+-------------n_jobs=4---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.20012617111206055 s
+-------------n_jobs=5---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5826928615570068 s
+-------------n_jobs=5---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.17335081100463867 s
+-------------n_jobs=6---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5697669982910156 s
+-------------n_jobs=6---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.15540504455566406 s
+-------------n_jobs=7---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5741918087005615 s
+-------------n_jobs=7---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.1470658779144287 s
+-------------n_jobs=8---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5712168216705322 s
+-------------n_jobs=8---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.16443300247192383 s
+-------------n_jobs=9---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5933759212493896 s
+-------------n_jobs=9---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.15079307556152344 s
+-------------n_jobs=10---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5796020030975342 s
+-------------n_jobs=10---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.15449094772338867 s
+-------------n_jobs=11---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5769329071044922 s
+-------------n_jobs=11---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.1569960117340088 s
+-------------n_jobs=12---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5776567459106445 s
+-------------n_jobs=12---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.1666560173034668 s
+-------------n_jobs=13---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5765728950500488 s
+-------------n_jobs=13---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.16860008239746094 s
+-------------n_jobs=14---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5734109878540039 s
+-------------n_jobs=14---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.1911458969116211 s
+-------------n_jobs=15---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5737268924713135 s
+-------------n_jobs=15---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.1915268898010254 s
+-------------n_jobs=16---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5822079181671143 s
+-------------n_jobs=16---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.21343398094177246 s
+-------------n_jobs=17---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5701041221618652 s
+-------------n_jobs=17---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.2228529453277588 s
+-------------n_jobs=18---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.572145938873291 s
+-------------n_jobs=18---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.2055060863494873 s
+-------------n_jobs=19---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5768139362335205 s
+-------------n_jobs=19---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.19897818565368652 s
+-------------n_jobs=20---Pool=<class 'concurrent.futures.thread.ThreadPoolExecutor'>-------------
+time: 0.5787129402160645 s
+-------------n_jobs=20---Pool=<class 'concurrent.futures.process.ProcessPoolExecutor'>-------------
+time: 0.21274995803833008 s
